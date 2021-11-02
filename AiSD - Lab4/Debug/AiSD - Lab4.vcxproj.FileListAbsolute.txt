@@ -1,1 +1,2 @@
 E:\Studia\Projekty\Visual Studio projects\Algorytmy i struktury danych - lab\AiSD - Lab4\Debug\AiSD - Lab4.exe
+C:\Patryk\Programowanie\Visual Studio\Projekty\AiSD_Lab4\AiSD - Lab4\Debug\AiSD - Lab4.exe
